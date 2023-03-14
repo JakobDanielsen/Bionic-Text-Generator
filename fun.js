@@ -1,3 +1,8 @@
+document.getElementById("subBut").addEventListener("submit",(e) => {
+    e.preventDefault()
+})
+
+const e = require('express');
 // import the readline-sync module
 const readlineSync = require('readline-sync');
 
@@ -27,3 +32,4 @@ wordArray.forEach(e => {
 
 console.log(`MIDWAY:${wordArray}`);
 console.log(`FINISHED:${finishedText}`);
+
