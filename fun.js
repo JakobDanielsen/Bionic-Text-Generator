@@ -1,5 +1,5 @@
-document.getElementById("subBut").addEventListener("submit",(e) => {
-    e.preventDefault()
+document.getElementById("tField").addEventListener("submit",(event) => {
+    event.preventDefault()
 })
 
 const e = require('express');
