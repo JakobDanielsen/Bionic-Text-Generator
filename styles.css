@@ -2,3 +2,25 @@ body {
     margin: 1% 5% 10% 5%;
     background-color: rgb(35, 35, 35);
 }
+
+.color1 {
+    color: #FFFCF7;
+}
+
+.color3 {
+    color:#77B6EA;
+    
+}
+
+.bgcolor3 {
+    background-color:#77B6EA;
+    
+}
+
+.bgcolor1 {
+    background-color:#FFFCF7;
+}
+textarea {
+    border: none;
+    outline: none;
+}
